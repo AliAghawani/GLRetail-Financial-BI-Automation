@@ -1,6 +1,8 @@
 # GLRetail-Financial-BI-Automation
 
-This is a Power BI case study designed to automate and analyze key financial statements for a fictional retail company, **GL Retail Corporation**. The project was completed in five structured phases, and it demonstrates a complete BI workflow from SQL extraction to Excel-based financial analysis using live data connections.
+This project was completed as part of my training with **CFI (Corporate Finance Institute)**.  
+It is a comprehensive **Power BI case study** that automates and analyzes key financial statements for a fictional retail company, **GL Retail Corporation**
+The project was completed in five structured phases, and it demonstrates a complete BI workflow from SQL extraction to Excel-based financial analysis using live data connections.
 
 ---
 
